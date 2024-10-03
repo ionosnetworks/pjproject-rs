@@ -1,0 +1,3 @@
+[submodule "pjproject-sys/pjproject"]
+	path = pjproject-sys/pjproject
+	url = https://github.com/pjsip/pjproject
